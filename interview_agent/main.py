@@ -9,7 +9,7 @@ import tools
 
 
 # 1) .env 파일 위치 지정 및 환경변수 로드
-dotenv_path = Path(r'C:\Users\kanga\Desktop\MS\0000test\.env')  # 실제 경로로 변경하세요
+dotenv_path = Path(r'C:\Users\kanga\Desktop\MS\final\.env')  # 실제 경로로 변경하세요
 load_dotenv(dotenv_path=dotenv_path, override=True)
 
 # 2) 환경변수 로드 확인용 (필요 시 주석 처리)
