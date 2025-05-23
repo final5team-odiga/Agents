@@ -16,7 +16,6 @@ load_dotenv(dotenv_path=dotenv_path, override=True)
 print("AZURE_API_KEY:", os.getenv("AZURE_API_KEY"))
 print("AZURE_API_BASE:", os.getenv("AZURE_API_BASE"))
 print("AZURE_API_VERSION:", os.getenv("AZURE_API_VERSION"))
-print("AZURE_OPENAI_DEPLOYMENT_NAME:", os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"))
 
 
 # 3) Base LLM 클래스
