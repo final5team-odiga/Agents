@@ -1,0 +1,58 @@
+[
+  {
+    "sectionId": "Section02",
+    "questionId": "q1",
+    "answerId": "q1",
+    "template": "Section02",
+    "fields": ["title", "body", "imageUrl", "subImageUrls"]
+  },
+  {
+    "sectionId": "Section03",
+    "questionId": "q2",
+    "answerId": "q2",
+    "template": "Section03",
+    "fields": ["subtitle", "title", "body", "imageUrl"]
+  },
+  {
+    "sectionId": "Section05",
+    "questionId": "q3",
+    "answerId": "q3",
+    "template": "Section05",
+    "fields": ["title", "subtitle", "body"]
+  },
+  {
+    "sectionId": "Section06",
+    "questionId": "q4",
+    "answerId": "q4",
+    "template": "Section06",
+    "fields": ["title", "subtitle", "body", "imageUrl"]
+  },
+  {
+    "sectionId": "Section07",
+    "questionId": "q5",
+    "answerId": "q5",
+    "template": "Section07",
+    "fields": ["title", "subtitle", "body", "imageUrl", "subImageUrls"]
+  },
+  {
+    "sectionId": "Section09",
+    "questionId": "q6",
+    "answerId": "q6",
+    "template": "Section09",
+    "fields": ["title", "subtitle", "body"]
+  },
+  {
+    "sectionId": "Section11",
+    "questionId": "q7",
+    "answerId": "q7",
+    "template": "Section11",
+    "fields": ["title", "body", "imageUrl", "subImageUrls"]
+  },
+  {
+    "sectionId": "Section13",
+    "questionId": "q8",
+    "answerId": "q8",
+    "template": "Section13",
+    "fields": ["title", "subtitle", "body"]
+  }
+]
