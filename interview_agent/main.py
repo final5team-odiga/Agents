@@ -102,7 +102,7 @@ def main():
 
     # 결과를 텍스트 파일로 저장
     with open(save_path, "w", encoding="utf-8") as f:
-        f.write("=== 여행 인터뷰 정제 결과 ===\n\n")
+        f.write("=== 여행 인터뷰 결과 ===\n\n")
         for agent in agents:
             question = agent.instruction['page_instruction']['source']
             refined = results.get(agent.name, "(정제된 결과 없음)")
