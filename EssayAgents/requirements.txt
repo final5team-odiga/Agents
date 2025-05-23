@@ -1,0 +1,10 @@
+# requirements.txt
+crewai==0.14.4
+langchain-core==0.1.43
+langchain==0.1.14
+langchain-community==0.0.30
+langsmith==0.1.17
+openai==1.13.3
+python-dotenv==1.0.1
+pydantic==2.5.3
+tenacity==8.2.3
