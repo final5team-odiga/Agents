@@ -1,9 +1,6 @@
 crewai
 crewai-tools
-
 openai
-azure-openai
-
 azure-storage-blob
 azure-identity
 python-dotenv
